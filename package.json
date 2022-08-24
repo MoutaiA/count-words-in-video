@@ -1,0 +1,26 @@
+{
+  "name": "count-words-in-video",
+  "description": "Count the number of a word has been said in a video",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+      "nodemon": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoutaiA/count-words-in-video.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoutaiA/count-words-in-video/issues"
+  },
+  "homepage": "https://github.com/MoutaiA/count-words-in-video#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "typescript": "^4.7.4"
+  }
+}
